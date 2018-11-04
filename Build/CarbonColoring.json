@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "model tester",
+"companyName": "Jenny Gitter",
+"productName": "CarbonColoring",
 "dataUrl": "CarbonColoring.data.unityweb",
 "wasmCodeUrl": "CarbonColoring.wasm.code.unityweb",
 "wasmFrameworkUrl": "CarbonColoring.wasm.framework.unityweb",
